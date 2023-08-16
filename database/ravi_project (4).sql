@@ -208,7 +208,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `username`, `password`, `no_hp`) VALUES
-(1, 'ravi', '$2y$10$LHestdiYZBkaNvjT3OVO7.zFULWzvcVklqOdUQRSwdPHPSMrholem', '081365701957'),
+(1, 'ravi', '$2y$10$LHestdiYZBkaNvjT3OVO7.zFULWzvcVklqOdUQRSwdPHPSMrholem', '081365707366'),
 (2, 'kadek', '$2y$10$DuMtkCUJz0/L8x1J7dnJiecehMgsYvEE0CcKCGt.CPFan5yVDoR9C', '08787826662'),
 (3, 'wayan', '$2y$10$7HhYETIeQ61WkloKHYD5Mu7nJwf1rUFsr9jtTR7A5W3koxxFjaVnS', '08136722772'),
 (4, 'mizan', '$2y$10$jaXASW7hrLWfM3KRExHLT.k3HHLf4i1wHVvtdlfJfVUPzLKTUNEyu', '08263726288282'),
